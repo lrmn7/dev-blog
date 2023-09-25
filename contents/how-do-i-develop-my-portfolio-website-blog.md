@@ -1,27 +1,29 @@
 ---
 coverImageWidth: "1200"
 coverImageHeight: "700"
-datetime: 2020-03-07T16:55:12.000+00:00
+datetime: 2018-02-07T16:55:12.000Z
 tags:
   - Portfolio
   - Blog
   - Website
 author: L RMN
 type: article
-coverImage: https://res.cloudinary.com/lrmn/image/upload/v1685332109/lrmn.dev/lrmn-dev.og_slepvx.png
+coverImage: >-
+  https://res.cloudinary.com/lrmn/image/upload/v1685332109/lrmn.dev/lrmn-dev.og_slepvx.png
 coverImageAlt: Website look
 title: How Do I Develop My Portfolio Website & Blog
-description:
-  My experience about developing my first portfolio website and a blog
-  using NextJS and a headless CMS.
-excerpt:
+description: >-
+  My experience about developing my first portfolio website and a blog using
+  NextJS and a headless CMS.
+excerpt: >-
   My journey about planning, designing and developing my very first portfolio
-  website and my personal blog. Thoughts about my motivation for this project and
-  experiences.
+  website and my personal blog. Thoughts about my motivation for this project
+  and experiences.
 slug: how-do-i-develop-my-portfolio-and-blog
 featured: true
 category: How Do I
 language: English
+_template: blog_article
 ---
 
 My experience about developing my first portfolio website and a blog using NextJS and a headless CMS.
@@ -32,8 +34,8 @@ I've been always thinking about launching my own website with my custom domain n
 
 So, "what about blog?" you may ask. Yeah, blog also has been in my project list for some time. I always wanted to make a blog project using some of the latest technologies. However, I've been busy with my works and other projects so that blog project has never been started.
 
-In these days, I tend to develop my own projects with the focus in good quality rather than quantity. 
-I want to write down my experiences and challenges. 
+In these days, I tend to develop my own projects with the focus in good quality rather than quantity.
+I want to write down my experiences and challenges.
 Thus, I decided to make my own blog. Plus, at this point, I have decent experiences and confidence to develop this project.
 
 ## Tech Stack
